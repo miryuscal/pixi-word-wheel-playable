@@ -1,0 +1,114 @@
+{
+  "bundles": [
+    {
+      "name": "game",
+      "assets": [
+        { "name": "logo", "srcs": "assets/core/logo_white.png" }
+      ]
+    },
+    {
+      "name": "fonts",
+      "assets": [
+        { "name": "font", "srcs": "assets/Sniglet-Regular.ttf" }
+      ]
+    },
+    {
+      "name": "backGround",
+      "assets": [
+        { "name": "backGround", "srcs": "assets/bg.png" }
+      ]
+    },
+    {
+      "name": "mainCircle",
+      "assets": [
+        { "name": "mainCircle", "srcs": "assets/mainCircle.png" }
+      ]
+    },
+    {
+      "name": "buttonContainer",
+      "assets": [
+        { "name": "buttonContainer", "srcs": "assets/install0.png" }
+      ]
+    },
+    {
+      "name": "shuffle",
+      "assets": [
+        { "name": "shuffle", "srcs": "assets/suffle.png" }
+      ]
+    },
+    {
+      "name": "rect",
+      "assets": [
+        { "name": "rect", "srcs": "assets/rect.png" }
+      ]
+    },
+    {
+      "name": "hand",
+      "assets": [
+        { "name": "hand", "srcs": "assets/hand2.png" }
+      ]
+    },
+    {
+      "name": "earth",
+      "assets": [
+        { "name": "earth", "srcs": "assets/earth.gif" }
+      ]
+    },
+    {
+      "name": "endLogo",
+      "assets": [
+        { "name": "endLogo", "srcs": "assets/LogoWoW.png" }
+      ]
+    },
+
+    {
+      "name": "earthFrames",
+      "assets": [
+        { "name": "earth_f00", "srcs": "assets/earth/frame_00_delay-0.09s.png" },
+        { "name": "earth_f01", "srcs": "assets/earth/frame_01_delay-0.09s.png" },
+        { "name": "earth_f02", "srcs": "assets/earth/frame_02_delay-0.09s.png" },
+        { "name": "earth_f03", "srcs": "assets/earth/frame_03_delay-0.09s.png" },
+        { "name": "earth_f04", "srcs": "assets/earth/frame_04_delay-0.09s.png" },
+        { "name": "earth_f05", "srcs": "assets/earth/frame_05_delay-0.09s.png" },
+        { "name": "earth_f06", "srcs": "assets/earth/frame_06_delay-0.09s.png" },
+        { "name": "earth_f07", "srcs": "assets/earth/frame_07_delay-0.09s.png" },
+        { "name": "earth_f08", "srcs": "assets/earth/frame_08_delay-0.09s.png" },
+        { "name": "earth_f09", "srcs": "assets/earth/frame_09_delay-0.09s.png" },
+        { "name": "earth_f10", "srcs": "assets/earth/frame_10_delay-0.09s.png" },
+        { "name": "earth_f11", "srcs": "assets/earth/frame_11_delay-0.09s.png" },
+        { "name": "earth_f12", "srcs": "assets/earth/frame_12_delay-0.09s.png" },
+        { "name": "earth_f13", "srcs": "assets/earth/frame_13_delay-0.09s.png" },
+        { "name": "earth_f14", "srcs": "assets/earth/frame_14_delay-0.09s.png" },
+        { "name": "earth_f15", "srcs": "assets/earth/frame_15_delay-0.09s.png" },
+        { "name": "earth_f16", "srcs": "assets/earth/frame_16_delay-0.09s.png" },
+        { "name": "earth_f17", "srcs": "assets/earth/frame_17_delay-0.09s.png" },
+        { "name": "earth_f18", "srcs": "assets/earth/frame_18_delay-0.09s.png" },
+        { "name": "earth_f19", "srcs": "assets/earth/frame_19_delay-0.09s.png" },
+        { "name": "earth_f20", "srcs": "assets/earth/frame_20_delay-0.09s.png" },
+        { "name": "earth_f21", "srcs": "assets/earth/frame_21_delay-0.09s.png" },
+        { "name": "earth_f22", "srcs": "assets/earth/frame_22_delay-0.09s.png" },
+        { "name": "earth_f23", "srcs": "assets/earth/frame_23_delay-0.09s.png" },
+        { "name": "earth_f24", "srcs": "assets/earth/frame_24_delay-0.09s.png" },
+        { "name": "earth_f25", "srcs": "assets/earth/frame_25_delay-0.09s.png" },
+        { "name": "earth_f26", "srcs": "assets/earth/frame_26_delay-0.09s.png" },
+        { "name": "earth_f27", "srcs": "assets/earth/frame_27_delay-0.09s.png" },
+        { "name": "earth_f28", "srcs": "assets/earth/frame_28_delay-0.09s.png" },
+        { "name": "earth_f29", "srcs": "assets/earth/frame_29_delay-0.09s.png" },
+        { "name": "earth_f30", "srcs": "assets/earth/frame_30_delay-0.09s.png" },
+        { "name": "earth_f31", "srcs": "assets/earth/frame_31_delay-0.09s.png" },
+        { "name": "earth_f32", "srcs": "assets/earth/frame_32_delay-0.09s.png" },
+        { "name": "earth_f33", "srcs": "assets/earth/frame_33_delay-0.09s.png" },
+        { "name": "earth_f34", "srcs": "assets/earth/frame_34_delay-0.09s.png" },
+        { "name": "earth_f35", "srcs": "assets/earth/frame_35_delay-0.09s.png" },
+        { "name": "earth_f36", "srcs": "assets/earth/frame_36_delay-0.09s.png" },
+        { "name": "earth_f37", "srcs": "assets/earth/frame_37_delay-0.09s.png" },
+        { "name": "earth_f38", "srcs": "assets/earth/frame_38_delay-0.09s.png" },
+        { "name": "earth_f39", "srcs": "assets/earth/frame_39_delay-0.09s.png" },
+        { "name": "earth_f40", "srcs": "assets/earth/frame_40_delay-0.09s.png" },
+        { "name": "earth_f41", "srcs": "assets/earth/frame_41_delay-0.09s.png" },
+        { "name": "earth_f42", "srcs": "assets/earth/frame_42_delay-0.09s.png" },
+        { "name": "earth_f43", "srcs": "assets/earth/frame_43_delay-0.09s.png" }
+      ]
+    }
+  ]
+}
